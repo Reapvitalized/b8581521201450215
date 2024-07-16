@@ -1,6 +1,6 @@
 function animation(character)
 	local canceldb = false
-	local root = character:FindFirstChild("HumanoidRootPart", true)
+	local root = character:FindFirstChild("HumanoidRootPart", true) 
 	local part1 = character["HumanoidRootPart"]["RootJoint"]	
 	local part2 = character["Torso"]["Right Shoulder"]
 	local part3 = character["Torso"]["Left Shoulder"]
