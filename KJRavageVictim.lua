@@ -1076,4 +1076,4 @@ function animation(character)
 		return
 	end
 end
-animation(game.Players.LocalPlayer.Character)
+animation(chr)
